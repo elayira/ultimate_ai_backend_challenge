@@ -1,5 +1,5 @@
 # ultimate AI Chatbot Backend Challenge API
-a backend web server that exposes a single endpoint. This endpoint accepts a bot identifier and a visitor written message.
+A backend web server that exposes a single endpoint. This endpoint accepts a bot identifier and a visitor written message.
 It returns a single reply corresponding to the highest predicted intent above a configurable confidence threshold.
 
 ## Running Locally
