@@ -1,0 +1,24 @@
+{
+    "intents": [
+        {
+            "confidence": 0.3441011905670166,
+            "name": "Thank you"
+        },
+        {
+            "confidence": 0.3076968789100647,
+            "name": "Greeting"
+        },
+        {
+            "confidence": 0.2982850968837738,
+            "name": "Goodbye"
+        },
+        {
+            "confidence": 0.03119143284857273,
+            "name": "Negative"
+        },
+        {
+            "confidence": 0.006753210444003344,
+            "name": "Affirmative"
+        }
+    ]
+}
